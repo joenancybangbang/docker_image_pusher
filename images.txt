@@ -1,3 +1,4 @@
 repocket/repocket
 traffmonetizer/cli_v2:latest
 dorowu/ubuntu-desktop-lxde-vnc
+jlesage/firefox
