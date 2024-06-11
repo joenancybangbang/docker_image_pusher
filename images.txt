@@ -1,2 +1,3 @@
 repocket/repocket
 traffmonetizer/cli_v2:arm64v8
+btpanel
