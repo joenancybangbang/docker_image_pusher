@@ -1,1 +1,1 @@
-oldiy/chrome-novnc:latest
+nibrev/ant-media-server:latest
