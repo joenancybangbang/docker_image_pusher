@@ -1,1 +1,1 @@
-linuxserver/ffmpeg
+oldiy/chrome-novnc:latest
