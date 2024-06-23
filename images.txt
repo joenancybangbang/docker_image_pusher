@@ -1,1 +1,1 @@
-bytelang/kplayer:latest  
+patrickstigler/docker-obs-ndi:latest
