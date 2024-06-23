@@ -1,1 +1,1 @@
-patrickstigler/docker-obs-ndi:latest
+ghcr.io/sytone/obsidian-remote:latest
