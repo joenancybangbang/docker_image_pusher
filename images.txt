@@ -1,1 +1,1 @@
-ghcr.io/sytone/obsidian-remote:latest
+ghcr.io/raywangqvq/bilibili_tool_pro
