@@ -1,1 +1,1 @@
-ghcr.io/raywangqvq/bilibili_tool_pro
+sitoi/dailycheckin:latest
