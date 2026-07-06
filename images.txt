@@ -1,1 +1,1 @@
-otohits/app:latest
+mzz2017/v2raya
